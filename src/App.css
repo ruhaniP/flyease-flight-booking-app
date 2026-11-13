@@ -294,3 +294,59 @@ body {
     padding: 35px 5%;
   }
 }
+
+
+.booking-section {
+  padding: 40px 8%;
+}
+
+.booking-summary,
+.confirmation-card {
+  max-width: 750px;
+  margin: 25px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.06);
+}
+
+.confirmation-section {
+  padding: 40px 8%;
+}
+
+.confirmation-card {
+  text-align: center;
+}
+
+.success-icon {
+  width: 55px;
+  height: 55px;
+  margin: 0 auto 15px;
+  border-radius: 50%;
+  background: #dcfce7;
+  color: #15803d;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.booking-reference {
+  color: #0755a5;
+  letter-spacing: 3px;
+}
+
+.confirmation-card hr {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 25px 0;
+}
+
+.demo-notice {
+  padding: 12px;
+  margin: 20px 0;
+  background: #fff7ed;
+  color: #9a3412;
+  border-radius: 7px;
+  font-size: 13px;
+}
